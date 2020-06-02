@@ -31,3 +31,4 @@ A numbered list is created using a number + `.`, like:
 > Block quote.
 
 ----
+![alt text](Photo2.jpeg)
